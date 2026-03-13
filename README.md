@@ -21,7 +21,6 @@ Input crop image -> Detection pipeline -> Analysis processing -> Advisory output
 pip install -r requirements.txt
 python train.py
 python inference.py
-python app.py
 ```
 
 ## Results
